@@ -1,6 +1,6 @@
-# SM4
+# Optimization-of-SM4-algorithm
 
-未优化的SM4算法
+对于SM4算法的优化
 
 ------
 
